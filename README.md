@@ -37,3 +37,7 @@ Read the numbered documents in order; each builds only on the ones before it.
 ## License
 
 [MIT](LICENSE)
+
+## Smoke test
+
+This repository is used to test dsh-superagent.
